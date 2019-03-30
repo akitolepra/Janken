@@ -12,7 +12,7 @@ class ResultActivity : AppCompatActivity() {
     val gu = 0
     val choki = 1
     val pa = 2
-    val guchokipa = -1
+//    val guchokipa = -1
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
